@@ -1,6 +1,7 @@
 # FACTORIAL-OF-A-NUMBER
 # FACTORIAL OF A NUMBER USING 8051 (Keil)
-
+# NAME: DEJASHINI T P
+# REG NO: 212224060055
 ## AIM
 To write and execute an Assembly language program to perform the factorial of a number using 8051 Keil.
 
