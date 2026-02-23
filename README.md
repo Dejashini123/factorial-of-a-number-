@@ -32,7 +32,7 @@ To write and execute an Assembly language program to perform the factorial of a 
 ---
 
 ## PROGRAM
-```asm
+```
 ORG 0000H
 MOV DPTR,#4500H
 MOVX A,@DPTR
@@ -51,13 +51,17 @@ THICK: RET
 THIN:RET
 END
 
+
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="1042" height="222" alt="image" src="https://github.com/user-attachments/assets/997a1ed0-f9eb-4fdf-9f90-3f8e8f368a98" />
+
 
 ---
 MANUAL CALCULATIONS
+<img width="792" height="401" alt="image" src="https://github.com/user-attachments/assets/cf9a560b-8bd9-4099-8dfa-ba95410a48c7" />
+
 
 ---
 
